@@ -1,5 +1,5 @@
 
-n=int(input('Enter no of rows:'))
+n=int(input("Enter rows:"))
 
 
 '''C'''
@@ -14,7 +14,7 @@ for row in range(n):
 
 
 
-print()  #to get next pattern on by giving one line gap
+print()  #to get next pattern by giving one line gap
 
 '''E'''
 for row in range(n):
@@ -36,7 +36,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 '''G'''
 for row in range(n):
@@ -48,7 +48,7 @@ for row in range(n):
     print()
 
 
-print()    #to get next pattern on by giving one line gap
+print()    #to get next pattern by giving one line gap
 
 '''H'''
 for row in range(n):
@@ -60,7 +60,7 @@ for row in range(n):
     print()
 
 
-print()    #to get next pattern on by giving one line gap
+print()    #to get next pattern by giving one line gap
 
 '''I'''
 for row in range(n):
@@ -72,7 +72,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 '''J'''
@@ -85,7 +85,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 '''L'''
 for row in range(n):
@@ -98,7 +98,7 @@ for row in range(n):
 
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 
@@ -113,7 +113,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 '''N'''
@@ -127,7 +127,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 '''P'''
 for row in range(n):
@@ -138,7 +138,7 @@ for row in range(n):
             print(" ",end=" ")
     print()
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 '''R'''
@@ -151,7 +151,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 '''S'''
@@ -164,7 +164,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 '''T'''
 
@@ -177,7 +177,7 @@ for row in range(n):
     print()
 
 
-print() #to get next pattern on by giving one line gap
+print() #to get next pattern on giving one line gap
 
 '''U'''
 for row in range(n):
@@ -189,7 +189,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 '''W'''
 for row in range(n):
@@ -202,7 +202,7 @@ for row in range(n):
 
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 '''X'''
@@ -214,7 +214,7 @@ for row in range(n):
             print(" ",end=" ")
     print()
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 
 '''Y'''
@@ -227,7 +227,7 @@ for row in range(n):
     print()
 
 
-print()   #to get next pattern on by giving one line gap
+print()   #to get next pattern by giving one line gap
 
 '''Z'''
 for row in range(n):
